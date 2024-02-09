@@ -1,13 +1,13 @@
 const welcome = () => {
   return (
-    <div>
-      <h1 className="text-4xl font-bold uppercase">
+    <div className="px-5 py-12">
+      <h1 className="mb-6 text-4xl font-bold uppercase">
         Reabertura
         <br />
         Smart Fit
       </h1>
 
-      <div className="h-4 w-36 bg-brand-darkGrey">
+      <div className="h-4 mb-8 w-36 bg-brand-darkGrey">
       </div>
         <p>
           O horário de funcionamento das nossas unidades está seguindo os
